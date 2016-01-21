@@ -1,0 +1,28 @@
+name: Beautiful Pixels
+favicon: null
+layout_spectrum: 0.09329420933499932
+typography_spectrum: 0.7473482913337648
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2606551838107407
+  lightness: 0.07743150345049798
+  saturation: 0.8249124409630895
+  rhythmicContrast: 0.5178686915896833
+purpose: []
